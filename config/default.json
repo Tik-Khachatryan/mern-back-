@@ -1,0 +1,1 @@
+{  "port": 3001,  "mongoURL": "mongodb://localhost/mern",  "jwtSecret": "I love you",  "baseUrl": "http://localhost:3001"}
